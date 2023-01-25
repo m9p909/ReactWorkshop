@@ -32,7 +32,12 @@ function PokemonSprite({ name }) {
     }
   </div >
 }
-
+/**
+ * returns the types, abilites, and weight of a pokemon. types and abilities are a string, weight is in kg
+ * 
+ * @param {string} name 
+ * @returns 
+ */
 async function fetchPokemonData(name) {
   try {
     const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${name}`);
