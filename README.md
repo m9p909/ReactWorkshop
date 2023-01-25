@@ -67,7 +67,7 @@ export default App
 
 To start, we're going to delete the contents of the component, so we can write our own component. Remove everything from the app, so it looks like this:
 
-```
+```js
 import './App.css'
 
 function App() {
@@ -85,7 +85,7 @@ export default App
 ## Start Building
 
 Next we're going to add the input box. We will use React `useState` to bind the value of the input box, to a variable. onSubmit, we will set the `pokemon` variable to whatever is in the textbox
-```
+```js
 function App() {
   const [textbox, setTextBox] = useState('')
   const [pokemon, setPokemon] = useState('')
@@ -128,7 +128,7 @@ frontDefaultSprite is a url to the sprite of the pokemon with name `name`
 Next we will integrate the sprite link into the react function. We can accomplish this using useEffect(). So whenever the pokemon variable changes, the useEffect function will trigger and update the sprite
 
 
-```
+```js
 function App() {
   const [textbox, setTextBox] = useState('')
   const [pokemon, setPokemon] = useState('')
@@ -245,7 +245,7 @@ using this function, can you display the types, abilities and weight of the poke
  * returns the types, abilites, and weight of a pokemon. types and abilities are a string, weight is in kg
  * 
  * @param {string} name 
- * @returns 
+ * @returns { types: string, abilities: string, weight: number}
  */
 async function fetchPokemonData(name) {
   try {
