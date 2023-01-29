@@ -25,7 +25,7 @@ to setup the app with vite, run
 
 If you don't have vscode, I recommend installing it. It's the main web IDE used today. 
 
-To open the folder in VSCode, go to file > open folder and selet your folder
+To open the folder in VSCode, go to file > open folder and select your folder
 
 To run the app, use `npm run dev` in the root folder of the app
 
