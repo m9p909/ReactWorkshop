@@ -7,6 +7,11 @@ This react workshop will cover:
 - Project Setup
 - React Components
 
+If you already know React, feel free to help the younger students or try to make the UX of this app better. I'll judge your improvements based on these heuristics:
+- Accessibility 5 points
+- Feedback 5 points
+- Aesthetics 5 points
+
 
 ## Setup
 
