@@ -13,7 +13,8 @@ This react workshop will cover:
 First intall node and npm, preferably the LTS (18).
 
 For this tutorial we are using Vite, for reasons why we are using vite instead of CRA see:https://github.com/reactjs/reactjs.org/pull/5487
-Then, setup the app with vite, run 
+
+to setup the app with vite, run 
 `npm create vite@latest pokeapp`
 
 
