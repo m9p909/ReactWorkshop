@@ -10,6 +10,7 @@ This react workshop will cover:
 If you already know React you can:
 - feel free to help the younger students 
 - try to make the UX of this app better. I'll judge your improvements based on Jakob’s Ten Usability Heuristics. 5 Points per Heuristic
+https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf 
 
 ## Setup
 
