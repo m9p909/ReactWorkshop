@@ -14,6 +14,8 @@ First intall node and npm, preferably the LTS (18).
 
 Then, setup the app with vite, run 
 `npm create vite@latest pokeapp`
+
+ For Older students and devs, we are not using create react app because newer alternatives like vite are way easier to use. See: https://github.com/reactjs/reactjs.org/pull/5487
  
  select the react, and javascript options from the tui menu
 
