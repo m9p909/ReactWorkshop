@@ -12,10 +12,11 @@ This react workshop will cover:
 
 First intall node and npm, preferably the LTS (18).
 
+For this tutorial we are using Vite, for reasons why we are using vite instead of CRA see:https://github.com/reactjs/reactjs.org/pull/5487
 Then, setup the app with vite, run 
 `npm create vite@latest pokeapp`
 
- For Older students and devs, we are not using create react app because newer alternatives like vite are way easier to use. See: https://github.com/reactjs/reactjs.org/pull/5487
+
  
  select the react, and javascript options from the tui menu
 
