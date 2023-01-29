@@ -9,11 +9,7 @@ This react workshop will cover:
 
 If you already know React you can:
 - feel free to help the younger students 
-- try to make the UX of this app better. I'll judge your improvements based on these heuristics:
-  - Accessibility 5 points
-  - Feedback 5 points
-  - Aesthetics 5 points
-
+- try to make the UX of this app better. I'll judge your improvements based on Jakob’s Ten Usability Heuristics. 5 Points per Heuristic
 
 ## Setup
 
