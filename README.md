@@ -14,7 +14,7 @@ https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compress
 
 ## Setup
 
-First intall node and npm, preferably the LTS (18).
+First intall [node and npm](https://nodejs.org/en/download/), preferably the LTS (18).
 
 For this tutorial we are using Vite, for reasons why we are using vite instead of CRA see:https://github.com/reactjs/reactjs.org/pull/5487
 
