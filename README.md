@@ -16,7 +16,7 @@ https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compress
 
 First intall [node and npm](https://nodejs.org/en/download/), preferably the LTS (18).
 
-For this tutorial we are using Vite, for reasons why we are using vite instead of CRA see:https://github.com/reactjs/reactjs.org/pull/5487
+For this tutorial we are using Vite, CRA is another option but vite is faster and more minimalist to get started. 
 
 to setup the app with vite, run 
 `npm create vite@latest pokeapp`
