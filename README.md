@@ -27,7 +27,7 @@ to setup the app with vite, run
 
 ## Open in VSCode
 
-If you don't have vscode, I recommend installing it. It's the main web IDE used today. 
+If you don't have vscode, I recommend [installing it](https://code.visualstudio.com/). It's the main web IDE used today. 
 
 To open the folder in VSCode, go to file > open folder and select your folder
 
